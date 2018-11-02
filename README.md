@@ -1,4 +1,4 @@
-# lrmtest
+# LRM Assessment
 
 ## Android Programming Task
 
